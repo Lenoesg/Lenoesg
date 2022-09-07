@@ -16,7 +16,7 @@ Saat ini saya sedang bekerja di salah satu institusi perbankan. Kegiatan saya di
 <h1 align="center">   </h1>
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lenoesg&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lenoesg&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenoesg&layout=compact" />
 
