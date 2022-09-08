@@ -26,16 +26,3 @@ Saat ini saya sedang bekerja di salah satu institusi perbankan. Kegiatan saya di
 
 <img align="left" alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>spinner</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
-    </head>
-    <body>
-        <div class="box">
-            <h2>02</h2>
-        </div>
-    </body>
-</html>
